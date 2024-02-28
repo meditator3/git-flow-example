@@ -13,3 +13,9 @@ and can be add/modify files only via new branch> hencforth-
 add the new branch (because of locked) feature/ariel :
 
 (from git) git push --set-upstream origin feature/ariel (incase git push origin feature/ariel didnt work)
+added file4, file5 (to feature/ariel)
+
+now, feature/ariel has file-file5, but develop and main can't have it because they are locked.
+
+next, we want to update/merge the deveop branch ONLY.
+so we use pull request but from feature/ariel to develop (not main)
