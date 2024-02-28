@@ -26,3 +26,6 @@ dev:2 files, mian: still 1 file
 next, we want to update/merge the deveop branch ONLY.
 so we use pull request but from feature/ariel to develop (not main)
 we see if we can actually do merge commit-not squash- if not-change it with setting>general>allow merge commit.
+-close the pull request.
+next, we have a hotshot who can develop even better feature-
+so we open a new branch for him, feature/hotshot from develop
