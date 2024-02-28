@@ -37,4 +37,11 @@ because he loves the hotshot so much he even allowed squash and merge!
 next, we want to have better visualization so we use --git kraken-- to look at it, using this repo. downlaod-install and authorize this repo.
 currently: develop has 3 files-two old 2, and the great_feature from hotshot branch
 
+but hotshot forgot something, and updated the "great feature".
+created a pull request, and squash and merged into develop. because he is a loved hotshot
+
+next, ariel wants to pull request his files to develop branch, with pull request.
+but his boss doesn't like him as much, so he allows only with "merge commit"
+
+
 
