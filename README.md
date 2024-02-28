@@ -49,4 +49,7 @@ and has to push the tag into the repo, using:
 
 git push --tags origin feature/ariel
 
+and now it is also in develop (v2), everyone knows, now i have to bring the new version to production>to main.
+
+
 
