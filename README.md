@@ -12,3 +12,4 @@ and can be add/modify files only via new branch> hencforth-
 
 add the new branch (because of locked) feature/ariel :
 
+(from git) git push --set-upstream origin feature/ariel (incase git push origin feature/ariel didnt work)
