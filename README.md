@@ -43,5 +43,9 @@ created a pull request, and squash and merged into develop. because he is a love
 next, ariel wants to pull request his files to develop branch, with pull request.
 but his boss doesn't like him as much, so he allows only with "merge commit"
 
+now, we have advanced to version2.0.0
+so ariel tags it: git tag -a v2.0 -m "version 2.0"
+and has to push the tag into the repo, using:
+git push --tags origin feature/ariel
 
 
