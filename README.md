@@ -29,3 +29,5 @@ we see if we can actually do merge commit-not squash- if not-change it with sett
 -close the pull request.
 next, we have a hotshot who can develop even better feature-
 so we open a new branch for him, feature/hotshot from develop
+
+now, the hotshot also wants to pull request, because he's better than ariel.
