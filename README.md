@@ -1,6 +1,9 @@
 # git-flow-example
 git-flow example of feature/prod/dev/hotfix from v1.0 to v2.0 to v2.0.1
 
+in this process we maintain a gitops ethic to FFW to main only. we are not allowing merge commit branching. 
+this is via branch rules(in settings) select option only linear history.
+
 process:
 started at v1.0 with file 
 
@@ -51,7 +54,7 @@ git push --tags origin feature/ariel
 
 and now it is also in develop (v2), everyone knows, now i have to bring the new version to production>to main.
 
-but there's a condition- we merge it from develop to main. to maintain the FFW.
+but there's a condition- we merge it from develop to main. to maintain the FFW. we don't allow merge commit(at first that was the condition), to make it more organised. 
 
 
 
