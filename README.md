@@ -56,5 +56,5 @@ and now it is also in develop (v2), everyone knows, now i have to bring the new 
 
 but there's a condition- we merge it from develop to main. to maintain the FFW. we don't allow merge commit(at first that was the condition), to make it more organised. 
 
-
+now we allow it via the pull request to squash and merge. and we have v2.0.0 in the main/production
 
