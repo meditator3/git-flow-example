@@ -1,5 +1,5 @@
 # git-flow-example
-git-flow example of feature/prod/dev/staging/hotfix from v1.0 to v2.0 to v2.0.1
+git-flow example of feature/prod/dev/hotfix from v1.0 to v2.0 to v2.0.1
 
 process:
 started at v1.0 with file 
@@ -21,7 +21,7 @@ added file4, file5 (to feature/ariel)
 
 now, feature/ariel has file-file5, but develop and main can't have it because they are locked.
 dev:2 files, mian: still 1 file
----
+
 
 next, we want to update/merge the deveop branch ONLY.
 so we use pull request but from feature/ariel to develop (not main)
