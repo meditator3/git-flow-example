@@ -34,3 +34,7 @@ now, the hotshot also wants to pull request, because he's better than ariel. of 
 because the Team Leader loves the hotshot, he authorized the merge.
 because he loves the hotshot so much he even allowed squash and merge!
 
+next, we want to have better visualization so we use --git kraken-- to look at it, using this repo. downlaod-install and authorize this repo.
+currently: develop has 3 files-two old 2, and the great_feature from hotshot branch
+
+
