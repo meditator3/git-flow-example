@@ -51,5 +51,7 @@ git push --tags origin feature/ariel
 
 and now it is also in develop (v2), everyone knows, now i have to bring the new version to production>to main.
 
+but there's a condition- we merge it from develop to main. to maintain the FFW.
+
 
 
